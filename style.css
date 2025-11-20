@@ -5,7 +5,8 @@
 }
 
 body{
-    background: url('star.jpg');
+    /* background: url('star.jpg'); */
+    background-color:black;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -183,3 +184,4 @@ body{
     }
 
 }
+
